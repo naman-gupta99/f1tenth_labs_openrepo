@@ -3,7 +3,7 @@
 	url = https://github.com/naman-gupta99/f1tenth_lab1
 [submodule "lab2"]
 	path = lab2
-	url = https://github.com/f1tenth/f1tenth_lab2_template
+	url = https://github.com/naman-gupta99/f1tenth_lab2
 [submodule "lab3"]
 	path = lab3
 	url = https://github.com/f1tenth/f1tenth_lab3_template
